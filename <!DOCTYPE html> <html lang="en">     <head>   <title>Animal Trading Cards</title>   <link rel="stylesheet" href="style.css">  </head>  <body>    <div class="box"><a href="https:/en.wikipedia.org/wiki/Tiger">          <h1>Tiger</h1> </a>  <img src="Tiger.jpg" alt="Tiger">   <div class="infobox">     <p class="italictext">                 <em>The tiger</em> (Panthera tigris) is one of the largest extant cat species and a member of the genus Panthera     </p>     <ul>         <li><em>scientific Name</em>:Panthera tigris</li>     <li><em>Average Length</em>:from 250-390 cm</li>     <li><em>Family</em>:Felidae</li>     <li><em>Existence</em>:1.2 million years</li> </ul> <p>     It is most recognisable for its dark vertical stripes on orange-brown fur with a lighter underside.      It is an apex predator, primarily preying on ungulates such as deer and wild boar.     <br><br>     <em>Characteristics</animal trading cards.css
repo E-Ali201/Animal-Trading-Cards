@@ -1,0 +1,23 @@
+img{width:300px;
+height:300px;margin:5px;padding:5px
+}
+
+.box{
+  width: 315px;
+  background-color:rgb(255, 238, 230);
+  border:3px solid rgb(0, 122, 153);
+  padding:5px
+}
+
+.infobox{
+ width: 300px;
+ border:1px solid black;
+ margin:5px;padding:5px
+}
+
+li{list-style: none;text-align: left;
+}
+
+em{font-style:normal;font-weight:bold;}
+
+.italictext{font-style: italic;}
